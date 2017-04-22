@@ -34,3 +34,13 @@ All notable changes to this project will be documented in this file.
 
 ### Changed
 - .....
+
+# [0.1.0] - 2017-04-25 -- 2017-05-9
+
+## Will be a big update so I made this title bigger !!! 
+
+### Added
+- .....
+
+### Changed
+- .....
