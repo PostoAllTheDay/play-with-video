@@ -19,6 +19,17 @@ All notable changes to this project will be documented in this file.
 
 ## [0.0.3] - 2017-04-22
 ### Added
+- Added the number of frames
+- Added the number of seconds
+- Added the number of fps
+
+### Changed
+- Refactored the code
+- Deleted the save to video file feature
+
+
+## [0.0.4] - 2017-04-23
+### Added
 - .....
 
 ### Changed
