@@ -42,8 +42,7 @@ All notable changes to this project will be documented in this file.
 Will be a big update so get ready !!! 
 
 ### Will be added:
-- I can tell you just this: SnapChat
-#So, what do you think ???
+- I can tell you just this: SnapChat! So, what do you think now ???
 - .....
 
 ### Will be changed:
