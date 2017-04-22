@@ -32,7 +32,7 @@ All notable changes to this project will be documented in this file.
 ## [0.0.4] - 2017-04-23
 
 ### Added:
-- Now, if you press "1" or "2" ... or "9",the caracter that is overhead you will change in that number 
+- Now, if you press "1" or "2" or ... or "9",the caracter that is overhead you will change in that number 
 
 ### Changed:
 - Nothing changed
